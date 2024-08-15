@@ -6,6 +6,7 @@ We used:
   3. 2 Relays
   4. Real time module
 
+Ex video - https://drive.google.com/file/d/1gC1SK9kSgcAM3TgoeQGzvLzLyMNr9clz/view?usp=sharing
 
 Contacts:
 nurgaleev.dev.tat@gmail.com
